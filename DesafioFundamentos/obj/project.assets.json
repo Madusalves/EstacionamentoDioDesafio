@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maria/Documentos/ONEDRIVE/Desafio/Estacionamento/Estacionamento.csproj",
+      "projectUniqueName": "/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/Estacionamento.csproj",
       "projectName": "Estacionamento",
-      "projectPath": "/home/maria/Documentos/ONEDRIVE/Desafio/Estacionamento/Estacionamento.csproj",
+      "projectPath": "/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/Estacionamento.csproj",
       "packagesPath": "/home/maria/.nuget/packages/",
-      "outputPath": "/home/maria/Documentos/ONEDRIVE/Desafio/Estacionamento/obj/",
+      "outputPath": "/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/maria/.nuget/NuGet/NuGet.Config"

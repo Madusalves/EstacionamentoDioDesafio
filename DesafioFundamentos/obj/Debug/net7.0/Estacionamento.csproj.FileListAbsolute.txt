@@ -1,0 +1,14 @@
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/bin/Debug/net7.0/Estacionamento
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/bin/Debug/net7.0/Estacionamento.deps.json
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/bin/Debug/net7.0/Estacionamento.runtimeconfig.json
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/bin/Debug/net7.0/Estacionamento.dll
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/bin/Debug/net7.0/Estacionamento.pdb
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.AssemblyInfoInputs.cache
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.AssemblyInfo.cs
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.csproj.CoreCompileInputs.cache
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.dll
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/refint/Estacionamento.dll
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.pdb
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/Estacionamento.genruntimeconfig.cache
+/home/maria/Documentos/ONEDRIVE/Desafio/DesafioFundamentos/obj/Debug/net7.0/ref/Estacionamento.dll
